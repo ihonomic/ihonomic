@@ -7,6 +7,7 @@ test benches for IoT devices · robots that validate sensors · apps used by tho
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ihon.netlify.app-111827?style=for-the-badge)](https://ihon.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ihonomic-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ihonomic)
+[![GrabCAD](https://img.shields.io/badge/GrabCAD-Machine_designs-F2A900?style=for-the-badge)](https://grabcad.com/ihonosetale.oseghale-1)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:onosetaleoseghale@gmail.com)
 
 📍 Munich, Germany · 🏭 Alps Alpine · 🎓 M.Sc. TH Rosenheim
@@ -23,6 +24,7 @@ Python engineer with **3 years building production web and mobile apps** and **2
 - 📱 Shipped apps used by **5,000+** and **12,000+** people, growing premium revenue by **25%**
 - 🛡️ Led a team of four to build a **fraud detection system** for a payments app
 - 🦾 Integrated a **UR5 cobot** into a Python test framework to validate IMU sensors
+- 🌍 Speaks English (fluent) and German (B1)
 
 ---
 
@@ -43,7 +45,7 @@ Python engineer with **3 years building production web and mobile apps** and **2
 | 🧪 | **Test Automation & Validation** | Remote-controlled test benches, robot-assisted IMU validation, CRA security testing | Python · pytest · C++ · Arduino · Jenkins |
 | 💻 | **Full-Stack Engineering** | Payments, e-wallets, real-time chat, iOS and Android apps in production | Django · FastAPI · React · React Native · PostgreSQL |
 | 🤖 | **Machine Learning** | Fraud detection, production ML pipeline, disease risk prediction | PyTorch · TensorFlow · OpenCV · pandas |
-| 🦾 | **Robotics** | UR5 driver integration, vision-guided Omron cobot, kinematics | Python · C++ · Universal Robots · OpenCV |
+| 🦾 | **Robotics & Mechanical Design** | UR5 driver integration, vision-guided Omron cobot, kinematics, [CAD designs](https://grabcad.com/ihonosetale.oseghale-1) of a drone and a robotic handling arm | Python · C++ · Universal Robots · SolidWorks · CATIA · Fusion 360 |
 
 ---
 
@@ -60,11 +62,15 @@ Python engineer with **3 years building production web and mobile apps** and **2
 
 ### 🎓 Education
 
-**M.Sc. Advanced Industrial Engineering** · Technische Hochschule Rosenheim, Germany · grade 1.7
+**M.Sc. Advanced Industrial Engineering** · Technische Hochschule Rosenheim, Germany · grade 1.7 (German scale, 1.0 is best)
 - Modules: Data Science and Artificial Intelligence, Machine Learning, Virtual Reality, Augmented Reality, Digital Transformation
 - Thesis: *Achieving Data Sovereignty for EU Enterprises Through European Cloud Infrastructure*, with Alps Alpine as industry partner
 
 **B.Eng. Mechanical Engineering** · Ambrose Alli University, Nigeria · CGPA 4.16 / 5.00
+
+**Certifications:** [Data Structures and Algorithms (AlgoExpert)](https://certificate.algoexpert.io/AE-c0448b0171) · [Python Professional (HackerRank)](https://www.hackerrank.com/certificates/5636a57e6bd0)
+
+**Volunteering:** led development of the Solutions.help fundraising platform, connecting people in low-income urban areas with donors and raising over $10,000
 
 ---
 
