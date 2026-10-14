@@ -9,7 +9,7 @@ test benches for IoT devices · robots that validate sensors · apps used by tho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ihonomic-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ihonomic)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:onosetaleoseghale@gmail.com)
 
-📍 Munich, Germany · 🏭 Alps Alpine · 🎓 M.Sc. TH Rosenheim · 🐍 Python first
+📍 Munich, Germany · 🏭 Alps Alpine · 🎓 M.Sc. TH Rosenheim
 
 </div>
 
@@ -55,6 +55,17 @@ Python engineer with **3 years building production web and mobile apps** and **2
 | **Cashpoint** | Payments for airtime, bills, TV subscriptions and flights · 12,000+ users | [App Store](https://apps.apple.com/app/cash-point/id6474533330) · [Google Play](https://play.google.com/store/apps/details?id=com.cashpointbills.cashpointbills) |
 | **Perra.io** | Crypto and gift card trading with fast KYC onboarding | [Website](https://perra.io) |
 | **Disease prediction** | ML models estimating diabetes, breast cancer and Parkinson's risk | [Live demo](https://hospital.streamlit.app/) |
+
+---
+
+### 🎓 Education
+
+| Degree | University |
+|---|---|
+| **M.Sc. Advanced Industrial Engineering** · grade 1.7 | Technische Hochschule Rosenheim, Germany |
+| **B.Eng. Mechanical Engineering** · CGPA 4.16 / 5.00 | Ambrose Alli University, Nigeria |
+
+Master's thesis: *Achieving Data Sovereignty for EU Enterprises Through European Cloud Infrastructure*, with Alps Alpine as industry partner.
 
 ---
 
