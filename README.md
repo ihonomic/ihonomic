@@ -60,12 +60,11 @@ Python engineer with **3 years building production web and mobile apps** and **2
 
 ### 🎓 Education
 
-| Degree | University |
-|---|---|
-| **M.Sc. Advanced Industrial Engineering** · grade 1.7 | Technische Hochschule Rosenheim, Germany |
-| **B.Eng. Mechanical Engineering** · CGPA 4.16 / 5.00 | Ambrose Alli University, Nigeria |
+**M.Sc. Advanced Industrial Engineering** · Technische Hochschule Rosenheim, Germany · grade 1.7
+- Modules: Data Science and Artificial Intelligence, Machine Learning, Virtual Reality, Augmented Reality, Digital Transformation
+- Thesis: *Achieving Data Sovereignty for EU Enterprises Through European Cloud Infrastructure*, with Alps Alpine as industry partner
 
-Master's thesis: *Achieving Data Sovereignty for EU Enterprises Through European Cloud Infrastructure*, with Alps Alpine as industry partner.
+**B.Eng. Mechanical Engineering** · Ambrose Alli University, Nigeria · CGPA 4.16 / 5.00
 
 ---
 
