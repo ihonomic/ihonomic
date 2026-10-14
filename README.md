@@ -1,36 +1,93 @@
-<h1 align="center">Hi 👋, I'm Ihonosetale Oseghale</h1>
-<h3 align="center">Software developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihonomic&label=Profile%20views&color=0e75b6&style=flat" alt="ihonomic" /> </p>
+# Ihonosetale Oseghale
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihonomic" alt="ihonomic" /></a> </p>
+**I build software that touches the real world:**<br/>
+test benches for IoT devices · robots that validate sensors · apps used by thousands · ML in production
 
-<p align="left"> <a href="https://twitter.com/ihonomic" target="blank"><img src="https://img.shields.io/twitter/follow/ihonomic?logo=twitter&style=for-the-badge" alt="ihonomic" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ihon.netlify.app-111827?style=for-the-badge)](https://ihon.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ihonomic-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ihonomic)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:onosetaleoseghale@gmail.com)
 
-- 🔭 I’m currently working on [Qomuniti](https://qomuniti.com)
+📍 Munich, Germany · 🏭 Alps Alpine · 🎓 M.Sc. TH Rosenheim · 🐍 Python first
 
-- 🌱 I’m currently learning **Data structures and algorithms and its application on Advanced Machine Specialization**
+</div>
 
-- 👯 I’m looking to collaborate on **Raspberry Pi Powered Bonsai Watering**
+---
 
-- 💬 Ask me about **Python, Javascripts, Django, React, React native**
+### 👋 About me
 
-- 📫 How to reach me **onosetaleoseghale@gmail.com**
+Python engineer with **3 years building production web and mobile apps** and **2 years automating hardware tests** at Alps Alpine, with a mechanical engineering background. I like problems where software meets physical systems: devices, sensors, robots and the people using them.
 
-- ⚡ Fun fact **I'm happy to connect**
+- 🧪 Cut regression testing time by **85%** across 8 product variants with automated test benches
+- 📱 Shipped apps used by **5,000+** and **12,000+** people, growing premium revenue by **25%**
+- 🛡️ Led a team of four to build a **fraud detection system** for a payments app
+- 🦾 Integrated a **UR5 cobot** into a Python test framework to validate IMU sensors
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ihonomic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihonomic" height="30" width="40" /></a>
-<a href="https://fb.com/ihonomic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihonomic" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/onosetaleoseghale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onosetaleoseghale" height="30" width="40" /></a>
+---
+
+### ⭐ Featured project: CloudSov
+
+<a href="https://cloudsov.onrender.com"><img src="assets/cloudsov-demo.gif" alt="CloudSov demo" width="100%"/></a>
+
+**How sovereign is your cloud provider, really?** CloudSov scores 17 European cloud providers against the European Commission's Cloud Sovereignty Framework, maps their coverage of 60 AWS services, and benchmarks their performance. Built for my master's thesis with Alps Alpine as industry partner.
+
+`Python` `FastAPI` `React` `Recharts` · **[Try it live →](https://cloudsov.onrender.com)**
+
+---
+
+### 🧭 What I work on
+
+| | Focus | Highlights | Stack |
+|---|---|---|---|
+| 🧪 | **Test Automation & Validation** | Remote-controlled test benches, robot-assisted IMU validation, CRA security testing | Python · pytest · C++ · Arduino · Jenkins |
+| 💻 | **Full-Stack Engineering** | Payments, e-wallets, real-time chat, iOS and Android apps in production | Django · FastAPI · React · React Native · PostgreSQL |
+| 🤖 | **Machine Learning** | Fraud detection, production ML pipeline, disease risk prediction | PyTorch · TensorFlow · OpenCV · pandas |
+| 🦾 | **Robotics** | UR5 driver integration, vision-guided Omron cobot, kinematics | Python · C++ · Universal Robots · OpenCV |
+
+---
+
+### 🚀 Shipped products
+
+| Product | What it does | Links |
+|---|---|---|
+| **Qomuniti** | Estate management: e-wallet, chat, visitor access, emergency alerts · 5,000+ residents | [Website](https://qomuniti.com) · [App Store](https://apps.apple.com/za/app/qomuniti/id1630100803) |
+| **Cashpoint** | Payments for airtime, bills, TV subscriptions and flights · 12,000+ users | [App Store](https://apps.apple.com/app/cash-point/id6474533330) · [Google Play](https://play.google.com/store/apps/details?id=com.cashpointbills.cashpointbills) |
+| **Perra.io** | Crypto and gift card trading with fast KYC onboarding | [Website](https://perra.io) |
+| **Disease prediction** | ML models estimating diabetes, breast cancer and Parkinson's risk | [Live demo](https://hospital.streamlit.app/) |
+
+---
+
+### 🔨 Currently building
+
+- [ ] **LLM test assistant:** generates test cases from requirements and clusters failures from logs
+- [ ] **Production ML system:** model serving, experiment tracking and drift monitoring
+- [ ] **ROS 2 pick-and-place:** natural-language commands to a robot arm, in simulation
+
+---
+
+### 🛠️ Tech I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,django,fastapi,react,nextjs,postgres,pytorch,tensorflow,opencv,docker,aws,linux,jenkins,arduino&perline=8" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!--
+### 📊 GitHub stats
+Add these back once your new public projects are active:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihonomic&show_icons=true&locale=en&layout=compact" alt="ihonomic" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihonomic&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihonomic&show_icons=true&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ihonomic&hide_border=true" />
+</p>
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihonomic&show_icons=true&locale=en" alt="ihonomic" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihonomic&" alt="ihonomic" /></p>
+**Open to conversations about test automation, Python engineering, ML and robotics.**<br/>
+[LinkedIn](https://www.linkedin.com/in/ihonomic) · [Email](mailto:onosetaleoseghale@gmail.com)
+
+</div>
