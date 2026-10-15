@@ -8,7 +8,7 @@ test benches for IoT devices · robots that validate sensors · apps used by tho
 [![Portfolio](https://img.shields.io/badge/Portfolio-ihonosetale.eu-111827?style=for-the-badge)](https://ihonosetale.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ihonomic-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ihonomic)
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-Machine_designs-F2A900?style=for-the-badge)](https://grabcad.com/ihonosetale.oseghale-1)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:onosetaleoseghale@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge)](mailto:contact@ihonosetale.eu)
 
 📍 Munich, Germany · 🏭 Alps Alpine · 🎓 M.Sc. TH Rosenheim
 
@@ -104,6 +104,6 @@ Add these back once your new public projects are active:
 <div align="center">
 
 **Open to conversations about test automation, Python engineering, ML and robotics.**<br/>
-[LinkedIn](https://www.linkedin.com/in/ihonomic) · [Email](mailto:onosetaleoseghale@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ihonomic) · [Email](mailto:contact@ihonosetale.eu)
 
 </div>
