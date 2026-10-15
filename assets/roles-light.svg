@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1284" height="272" viewBox="0 0 1284 272" role="img" aria-label="Test automation and validation; full-stack software; machine learning; robotics and automation">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .in { opacity: 0; animation: up .9s cubic-bezier(.22,1,.36,1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    .bob { animation: bob 4s ease-in-out infinite; }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .r { opacity: 0; } .r1 { opacity: 1; } .in { opacity: 1; } }
+  </style>
+  <defs><radialGradient id="glow0" gradientUnits="userSpaceOnUse" cx="2" cy="2" r="260"><stop offset="0" stop-color="#06b6d4" stop-opacity=".18"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient><radialGradient id="glow1" gradientUnits="userSpaceOnUse" cx="328" cy="2" r="260"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".18"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient><radialGradient id="glow2" gradientUnits="userSpaceOnUse" cx="654" cy="2" r="260"><stop offset="0" stop-color="#f59e0b" stop-opacity=".18"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><radialGradient id="glow3" gradientUnits="userSpaceOnUse" cx="980" cy="2" r="260"><stop offset="0" stop-color="#f43f5e" stop-opacity=".18"/><stop offset="1" stop-color="#f43f5e" stop-opacity="0"/></radialGradient></defs>
+  <g class="in" style="animation-delay:0.00s">
+    <rect x="2" y="2" width="302" height="268" rx="22" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="2" y="2" width="302" height="268" rx="22" fill="url(#glow0)"/>
+    <text x="282" y="72" text-anchor="end" font-size="64" font-weight="800" fill="#06b6d4" opacity=".12">01</text>
+    <g class="bob" style="animation-delay:-0.0s">
+      <rect x="28" y="30" width="52" height="52" rx="14" fill="#06b6d4" fill-opacity=".14"/>
+      <g transform="translate(42 44) scale(1)" fill="none" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2"/><path d="M6.453 15h11.094"/><path d="M8.5 2h7"/></g>
+    </g>
+    <text x="28" y="142" font-size="22" font-weight="700" fill="#1f2328">Test Automation &amp;</text><text x="28" y="169" font-size="22" font-weight="700" fill="#1f2328">Validation</text><text x="28" y="204" font-size="15" fill="#59636e">Automated, remote-controlled test</text><text x="28" y="226" font-size="15" fill="#59636e">benches for IoT hardware, with</text><text x="28" y="248" font-size="15" fill="#59636e">robots in the loop.</text>
+  </g><g class="in" style="animation-delay:0.12s">
+    <rect x="328" y="2" width="302" height="268" rx="22" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="328" y="2" width="302" height="268" rx="22" fill="url(#glow1)"/>
+    <text x="608" y="72" text-anchor="end" font-size="64" font-weight="800" fill="#8b5cf6" opacity=".12">02</text>
+    <g class="bob" style="animation-delay:-0.8s">
+      <rect x="354" y="30" width="52" height="52" rx="14" fill="#8b5cf6" fill-opacity=".14"/>
+      <g transform="translate(368 44) scale(1)" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/></g>
+    </g>
+    <text x="354" y="142" font-size="22" font-weight="700" fill="#1f2328">Full-Stack Software</text><text x="354" y="204" font-size="15" fill="#59636e">Web and mobile products, from</text><text x="354" y="226" font-size="15" fill="#59636e">Django and FastAPI back ends to</text><text x="354" y="248" font-size="15" fill="#59636e">React and React Native.</text>
+  </g><g class="in" style="animation-delay:0.24s">
+    <rect x="654" y="2" width="302" height="268" rx="22" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="654" y="2" width="302" height="268" rx="22" fill="url(#glow2)"/>
+    <text x="934" y="72" text-anchor="end" font-size="64" font-weight="800" fill="#f59e0b" opacity=".12">03</text>
+    <g class="bob" style="animation-delay:-1.6s">
+      <rect x="680" y="30" width="52" height="52" rx="14" fill="#f59e0b" fill-opacity=".14"/>
+      <g transform="translate(694 44) scale(1)" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M9 13a4.5 4.5 0 0 0 3-4"/><path d="M6.003 5.125A3 3 0 0 0 6.401 6.5"/><path d="M3.477 10.896a4 4 0 0 1 .585-.396"/><path d="M6 18a4 4 0 0 1-1.967-.516"/><path d="M12 13h4"/><path d="M12 18h6a2 2 0 0 1 2 2v1"/><path d="M12 8h8"/><path d="M16 8V5a2 2 0 0 1 2-2"/><circle cx="16" cy="13" r=".5"/><circle cx="18" cy="3" r=".5"/><circle cx="20" cy="21" r=".5"/><circle cx="20" cy="8" r=".5"/></g>
+    </g>
+    <text x="680" y="142" font-size="22" font-weight="700" fill="#1f2328">Machine Learning</text><text x="680" y="204" font-size="15" fill="#59636e">Fraud detection, production ML</text><text x="680" y="226" font-size="15" fill="#59636e">pipelines and sensor data from</text><text x="680" y="248" font-size="15" fill="#59636e">real devices.</text>
+  </g><g class="in" style="animation-delay:0.36s">
+    <rect x="980" y="2" width="302" height="268" rx="22" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="980" y="2" width="302" height="268" rx="22" fill="url(#glow3)"/>
+    <text x="1260" y="72" text-anchor="end" font-size="64" font-weight="800" fill="#f43f5e" opacity=".12">04</text>
+    <g class="bob" style="animation-delay:-2.4s">
+      <rect x="1006" y="30" width="52" height="52" rx="14" fill="#f43f5e" fill-opacity=".14"/>
+      <g transform="translate(1020 44) scale(1)" fill="none" stroke="#f43f5e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></g>
+    </g>
+    <text x="1006" y="142" font-size="22" font-weight="700" fill="#1f2328">Robotics &amp; Automation</text><text x="1006" y="204" font-size="15" fill="#59636e">Cobots, sensors and test</text><text x="1006" y="226" font-size="15" fill="#59636e">equipment wired into automated</text><text x="1006" y="248" font-size="15" fill="#59636e">systems.</text>
+  </g>
+</svg>

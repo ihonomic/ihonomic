@@ -1,0 +1,26 @@
+# Fills the "Latest writing" section of README.md from the blog's RSS feed.
+# Runs every morning and can also be started by hand (Actions → Run workflow).
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        # Until the first post is published the feed is empty; don't report that as a failure.
+        continue-on-error: true
+        with:
+          feed_list: "https://ihonosetale.eu/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) · <sub>$date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest blog posts"

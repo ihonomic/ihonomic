@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Ihonosetale Oseghale: test automation, software, machine learning and robotics engineer in Munich">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .orb { transform-box: fill-box; transform-origin: center; animation: float 18s ease-in-out infinite; }
+    .o1 { animation-delay: -4.5s; } .o2 { animation-delay: -9s; } .o3 { animation-delay: -13.5s; }
+    @keyframes float { 0%,100% { transform: translate(0,0) scale(1); } 33% { transform: translate(40px,-30px) scale(1.08); } 66% { transform: translate(-40px,25px) scale(.94); } }
+    .in { opacity: 0; animation: up .9s cubic-bezier(.22,1,.36,1) forwards; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .25s; } .d3 { animation-delay: .4s; } .d4 { animation-delay: .55s; } .d5 { animation-delay: .7s; }
+    @keyframes up { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+    .r { opacity: 0; animation: cycle 12s infinite; }
+    .r2 { animation-delay: 3s; } .r3 { animation-delay: 6s; } .r4 { animation-delay: 9s; }
+    @keyframes cycle { 0% { opacity: 0; transform: translateY(14px); } 4% { opacity: 1; transform: none; } 22% { opacity: 1; transform: none; } 26%,100% { opacity: 0; transform: translateY(-14px); } }
+    .spin { animation: spin 24s linear infinite; } .spin-r { animation: spin 36s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .7; } 100% { transform: scale(2.6); opacity: 0; } }
+    .shine { animation: shine 8s ease-in-out infinite; }
+    @keyframes shine { 0%,100% { transform: translateX(-300px); } 50% { transform: translateX(300px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .r { opacity: 0; } .r1 { opacity: 1; } .in { opacity: 1; } }
+  </style>
+  <defs>
+    <clipPath id="round"><rect width="1280" height="420" rx="28"/></clipPath>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="rgba(255,255,255,0.06)"/></pattern>
+    <radialGradient id="fade" cx="35%" cy="40%" r="70%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <mask id="gridmask"><rect width="1280" height="420" fill="url(#fade)"/></mask>
+    <radialGradient id="g0"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.3"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient><radialGradient id="g1"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.3"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient><radialGradient id="g2"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.3"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><radialGradient id="g3"><stop offset="0" stop-color="#f43f5e" stop-opacity="0.3"/><stop offset="1" stop-color="#f43f5e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="io" x1="0" x2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f43f5e"/></linearGradient>
+    <linearGradient id="name" x1="500" x2="900" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06b6d4"/><stop offset=".35" stop-color="#8b5cf6"/><stop offset=".7" stop-color="#f43f5e"/><stop offset="1" stop-color="#f59e0b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-120 0;120 0;-120 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="420" fill="#08080c"/>
+    <rect width="1280" height="420" fill="url(#grid)" mask="url(#gridmask)"/>
+    <circle class="orb o0" cx="120" cy="40" r="230" fill="url(#g0)"/><circle class="orb o1" cx="820" cy="0" r="230" fill="url(#g1)"/><circle class="orb o2" cx="330" cy="420" r="230" fill="url(#g2)"/><circle class="orb o3" cx="1180" cy="380" r="230" fill="url(#g3)"/>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="419" rx="27.5" fill="none" stroke="#30363d"/>
+
+  <g class="in d1">
+    <rect x="80" y="62" width="296" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <circle cx="101" cy="79" r="5" fill="#22c55e"/><circle class="pulse" cx="101" cy="79" r="5" fill="#22c55e"/>
+    <text x="115" y="84" font-size="14" font-weight="500" fill="#e6edf3">Open to new roles · Munich, Germany</text>
+  </g>
+  <text class="in d2" x="80" y="148" font-size="24" fill="#8b949e">Hi, I'm</text>
+  <text class="in d3" x="76" y="226" font-size="78" font-weight="800" letter-spacing="-2" fill="#e6edf3">Ihonosetale <tspan fill="url(#name)">Oseghale</tspan></text>
+  <g class="in d4"><text class="r r1" x="80" y="318" font-size="30" font-weight="600" fill="#06b6d4">Test Automation &amp; Validation Engineer</text><text class="r r2" x="80" y="318" font-size="30" font-weight="600" fill="#8b5cf6">Full-Stack Software Engineer (Python)</text><text class="r r3" x="80" y="318" font-size="30" font-weight="600" fill="#f59e0b">Machine Learning Engineer</text><text class="r r4" x="80" y="318" font-size="30" font-weight="600" fill="#f43f5e">Robotics &amp; Automation Engineer</text></g>
+  <text class="in d5" x="80" y="370" font-size="20" fill="#8b949e">I build software that touches the real world.</text>
+
+  <g transform="translate(1090 210)">
+    <g class="spin"><circle cx="0" cy="0" r="118" fill="none" stroke="#06b6d4" stroke-width="6" stroke-linecap="round" stroke-dasharray="150 591.4" stroke-dashoffset="0.00"/><circle cx="0" cy="0" r="118" fill="none" stroke="#8b5cf6" stroke-width="6" stroke-linecap="round" stroke-dasharray="150 591.4" stroke-dashoffset="-185.35"/><circle cx="0" cy="0" r="118" fill="none" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" stroke-dasharray="150 591.4" stroke-dashoffset="-370.70"/><circle cx="0" cy="0" r="118" fill="none" stroke="#f43f5e" stroke-width="6" stroke-linecap="round" stroke-dasharray="150 591.4" stroke-dashoffset="-556.05"/><circle cx="0" cy="-150" r="5" fill="#06b6d4"/><circle cx="150" cy="0" r="5" fill="#8b5cf6"/><circle cx="0" cy="150" r="5" fill="#f59e0b"/><circle cx="-150" cy="0" r="5" fill="#f43f5e"/></g>
+    <g class="spin-r"><circle r="88" fill="none" stroke="#30363d" stroke-dasharray="4 10"/></g>
+    <circle r="66" fill="#161b22" stroke="#30363d"/>
+    <text x="0" y="20" text-anchor="middle" font-size="56" font-weight="800" letter-spacing="-2" fill="url(#io)">IO</text>
+  </g>
+</svg>
