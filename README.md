@@ -30,11 +30,11 @@ Python engineer with **3 years building production web and mobile apps** and **2
 
 ### ⭐ Featured project: CloudSov
 
-<a href="https://cloudsov.onrender.com"><img src="assets/cloudsov-demo.gif" alt="CloudSov demo" width="100%"/></a>
+<a href="https://cloudsov.ihonosetale.eu"><img src="assets/cloudsov-demo.gif" alt="CloudSov demo" width="100%"/></a>
 
 **How sovereign is your cloud provider, really?** CloudSov scores 17 European cloud providers against the European Commission's Cloud Sovereignty Framework, maps their coverage of 60 AWS services, and benchmarks their performance. Built for my master's thesis with Alps Alpine as industry partner.
 
-`Python` `FastAPI` `React` `Recharts` · **[Try it live →](https://cloudsov.onrender.com)**
+`Python` `FastAPI` `React` `Recharts` · **[Try it live →](https://cloudsov.ihonosetale.eu)**
 
 ---
 
