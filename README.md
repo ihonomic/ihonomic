@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" width="100%" alt="5,000+ people use apps I've built · 17 EU cloud providers researched · 4+ years building software · $10,000+ raised for charity as a volunteer">
+  <img src="assets/stats-light.svg" width="100%" alt="27,000+ people use apps I've built · 17 EU cloud providers researched · 4+ years building software · $10,000+ raised for charity as a volunteer">
 </picture>
 
 ## 👋 Hi there
@@ -39,7 +39,7 @@ For three years I built **production web and mobile apps** at Zettaworks, from p
 
 ## ⭐ Featured: CloudSov
 
-**How sovereign is your cloud provider, really?** CloudSov scores **17 European cloud providers** against the European Commission's Cloud Sovereignty Framework, maps their coverage of **60 AWS services**, benchmarks their performance, and projects when each could catch up with AWS. Built as part of my published research on EU cloud sovereignty for Alps Alpine and Technische Hochschule Rosenheim.
+**How sovereign is your cloud provider, really?** CloudSov scores **17 European cloud providers** against the European Commission's Cloud Sovereignty Framework, maps their coverage of **60 AWS services**, benchmarks their performance, and projects when each could catch up with AWS. Built as part of my academic research on EU cloud sovereignty for Alps Alpine and Technische Hochschule Rosenheim.
 
 <a href="https://cloudsov.ihonosetale.eu"><img src="assets/cloudsov-sovscore.jpg" width="100%" alt="CloudSov sovereignty scores for European cloud providers"></a>
 
@@ -60,7 +60,7 @@ For three years I built **production web and mobile apps** at Zettaworks, from p
 
 | Product | What it does | Links |
 |---|---|---|
-| **Qomuniti** | Estate management: e-wallet, chat, visitor access, emergency alerts · **5,000+ residents** | [Website](https://qomuniti.com) · [App Store](https://apps.apple.com/za/app/qomuniti/id1630100803) |
+| **Qomuniti** | Estate management: e-wallet, chat, visitor access, emergency alerts · **27,000+ users** | [Website](https://qomuniti.com) · [App Store](https://apps.apple.com/za/app/qomuniti/id1630100803) |
 | **Cashpoint** | Payments for airtime, bills, TV subscriptions and flights · **12,000+ users** | [App Store](https://apps.apple.com/app/cash-point/id6474533330) · [Google Play](https://play.google.com/store/apps/details?id=com.cashpointbills.cashpointbills) |
 | **Perra.io** | Crypto and gift card trading with fast KYC onboarding | [Website](https://perra.io) |
 | **Disease prediction** | ML models estimating diabetes, breast cancer and Parkinson's risk | [Live demo](https://hospital.streamlit.app/) |
