@@ -39,7 +39,7 @@ For three years I built **production web and mobile apps** at Zettaworks, from p
 
 ## ⭐ Featured: CloudSov
 
-**How sovereign is your cloud provider, really?** CloudSov scores **17 European cloud providers** against the European Commission's Cloud Sovereignty Framework, maps their coverage of **60 AWS services**, benchmarks their performance, and projects when each could catch up with AWS. Built as part of my research on EU cloud sovereignty, with Alps Alpine as industry partner.
+**How sovereign is your cloud provider, really?** CloudSov scores **17 European cloud providers** against the European Commission's Cloud Sovereignty Framework, maps their coverage of **60 AWS services**, benchmarks their performance, and projects when each could catch up with AWS. Built as part of my published research on EU cloud sovereignty for Alps Alpine and Technische Hochschule Rosenheim.
 
 <a href="https://cloudsov.ihonosetale.eu"><img src="assets/cloudsov-sovscore.jpg" width="100%" alt="CloudSov sovereignty scores for European cloud providers"></a>
 
@@ -91,7 +91,7 @@ Articles and tutorials are on their way: follow along at **[ihonosetale.eu/blog]
 - **M.Sc. Advanced Industrial Engineering**, Technische Hochschule Rosenheim (2024 – 2026) · grade 1.7
 - **B.Eng. Mechanical Engineering**, Ambrose Alli University · CGPA 4.16 / 5.00
 - [Data Structures and Algorithms](https://certificate.algoexpert.io/AE-c0448b0171) (AlgoExpert) · [Python Professional](https://www.hackerrank.com/certificates/5636a57e6bd0) (HackerRank)
-- 🌍 English (fluent) · German (conversational)
+- 🌍 English (fluent) · German (B1, working towards B2)
 
 </details>
 
